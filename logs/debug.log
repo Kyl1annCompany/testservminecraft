@@ -1,0 +1,76 @@
+[17:33:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:33:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:33:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:33:03] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[17:33:03] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[17:33:03] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_241, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_241
+[17:33:03] [main/DEBUG] [FML]: Java classpath at launch is:
+[17:33:03] [main/DEBUG] [FML]:     C:\Users\Utilisateur\Documents\GitHub\testservminecraft\forge-1.12.2-14.23.5.2847-universal.jar
+[17:33:03] [main/DEBUG] [FML]: Java library path at launch is:
+[17:33:03] [main/DEBUG] [FML]:     C:\Program Files\Java\jre1.8.0_241\bin
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows\Sun\Java\bin
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows\system32
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows
+[17:33:03] [main/DEBUG] [FML]:     C:\Program Files\Python38\Scripts\
+[17:33:03] [main/DEBUG] [FML]:     C:\Program Files\Python38\
+[17:33:03] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows\system32
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows\System32\Wbem
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows\System32\WindowsPowerShell\v1.0\
+[17:33:03] [main/DEBUG] [FML]:     C:\Windows\System32\OpenSSH\
+[17:33:03] [main/DEBUG] [FML]:     C:\Program Files\nodejs\
+[17:33:03] [main/DEBUG] [FML]:     C:\Program Files\dotnet\
+[17:33:03] [main/DEBUG] [FML]:     c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+[17:33:03] [main/DEBUG] [FML]:     c:\Program Files\Microsoft SQL Server\100\Tools\Binn\
+[17:33:03] [main/DEBUG] [FML]:     c:\Program Files\Microsoft SQL Server\100\DTS\Binn\
+[17:33:03] [main/DEBUG] [FML]:     C:\Users\Utilisateur\AppData\Local\Microsoft\WindowsApps
+[17:33:03] [main/DEBUG] [FML]:     C:\Users\Utilisateur\AppData\Local\Programs\Fiddler
+[17:33:03] [main/DEBUG] [FML]:     C:\Users\Utilisateur\AppData\Local\Programs\Microsoft VS Code\bin
+[17:33:03] [main/DEBUG] [FML]:     C:\Users\Utilisateur\AppData\Roaming\npm
+[17:33:03] [main/DEBUG] [FML]:     %DASHLANE_DLL_DIR%
+[17:33:03] [main/DEBUG] [FML]:     .
+[17:33:03] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: C:\Users\Utilisateur\Documents\GitHub\testservminecraft\libraries
+[17:33:03] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[17:33:03] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[17:33:03] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[17:33:03] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[17:33:03] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[17:33:03] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[17:33:03] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[17:33:03] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[17:33:03] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[17:33:03] [main/DEBUG] [FML]: Discovering coremods
+[17:33:03] [main/INFO] [FML]: Searching C:\Users\Utilisateur\Documents\GitHub\testservminecraft\.\mods for mods
+[17:33:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:33:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:33:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:33:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:33:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:33:03] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[17:33:03] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[17:33:03] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[17:33:03] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[17:33:03] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[17:33:03] [main/DEBUG] [FML]: Injection complete
+[17:33:03] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[17:33:03] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[17:33:05] [main/DEBUG] [FML]: Read 1145 binary patches
+[17:33:06] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36083 records
+[17:33:07] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[17:33:07] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[17:33:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:33:07] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[17:33:07] [main/DEBUG] [FML]: Injection complete
+[17:33:07] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[17:33:07] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[17:33:07] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[17:33:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:33:07] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[17:33:07] [main/DEBUG] [FML]: Validating minecraft
+[17:33:08] [main/DEBUG] [FML]: Minecraft validated, launching...
+[17:33:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:33:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:33:09] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:33:09] [main/WARN] [net.minecraft.server.ServerEula]: Failed to load eula.txt
+[17:33:09] [main/INFO] [net.minecraft.server.MinecraftServer]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
